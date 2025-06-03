@@ -141,7 +141,7 @@ Data Analyst adalah seseorang yang bertanggung jawab dalam mengumpulkan, mengola
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Skills</h2>
+        <h2>Skill</h2>
         <p>Saya memiliki keahlian yang kuat dalam pengembangan web, dimulai dari penguasaan penuh terhadap HTML (100%) sebagai dasar struktur halaman, serta CSS (90%) untuk menciptakan desain yang responsif dan menarik. Dalam hal interaktivitas, saya cukup mahir menggunakan JavaScript (75%) untuk menambahkan fungsi dinamis pada website. Untuk pengembangan backend, saya menguasai PHP (80%) termasuk pengolahan data dan integrasi dengan database. Saya juga berpengalaman menggunakan WordPress dan CMS lainnya (90%) untuk membangun dan mengelola situs web secara efisien. Selain itu, saya memiliki kemampuan dasar dalam Adobe Photoshop (55%) yang saya gunakan untuk kebutuhan desain visual sederhana seperti banner, mockup, dan elemen grafis pendukung lainnya.</p>
       </div><!-- End Section Title -->
 
@@ -247,7 +247,7 @@ Data Analyst adalah seseorang yang bertanggung jawab dalam mengumpulkan, mengola
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <h3 class="resume-title">organisasi</h3>
+            <h3 class="resume-title">Organisasi</h3>
             <div class="resume-item">
               <h4>Ikatan Pelajar Nahdlatul Ulama</h4>
               <h5>2022 - Present</h5>
