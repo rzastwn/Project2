@@ -68,8 +68,8 @@
             <p>I'm <span class="typed" data-typed-items="Web Developer, Data Analys">Designer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
             <div class="social-links">
               <a href="#"><i class="bi bi-twitter-x"></i></a>
-              <a href="#"><i class="bi bi-facebook"></i></a>
-              <a href="#"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.facebook.com/RSDA2115"><i class="bi bi-facebook"></i></a>
+              <a href="https://www.instagram.com/rezasetiawan.id/"><i class="bi bi-instagram"></i></a>
               <a href="#"><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
@@ -379,8 +379,8 @@ Data Analyst adalah seseorang yang bertanggung jawab dalam mengumpulkan, mengola
       <h3 class="sitename">Reza Setiawan</h3>
       <div class="social-links d-flex justify-content-center">
         <a href=""><i class="bi bi-twitter-x"></i></a>
-        <a href=""><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
+        <a href="https://www.facebook.com/RSDA2115"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/rezasetiawan.id/"><i class="bi bi-instagram"></i></a>
         <a href=""><i class="bi bi-skype"></i></a>
         <a href=""><i class="bi bi-linkedin"></i></a>
       </div>
